@@ -1,0 +1,22 @@
+{
+  "name": "chunked_mp3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx nodemon ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.0.20",
+    "express": "^4.17.1",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-stream": "^0.6.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "fs": "0.0.1-security",
+    "http": "0.0.1-security",
+    "music-metadata": "^7.4.0",
+    "ws": "^7.3.1"
+  }
+}
